@@ -1,6 +1,8 @@
 ## To install
 ![Screenshot 2023-10-26 150027](https://github.com/MameAbadiga/blogPost/assets/147879195/b52f07f4-3624-49bf-b72d-4744f7014bfa)
 
++ Create database and import blogpost.sql
+
 https://github.com/MameAbadiga/blogPost/assets/147879195/4fd71cf1-4f0f-41d9-ba72-c2fc471ff450
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
